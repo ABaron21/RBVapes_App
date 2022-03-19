@@ -1,0 +1,22 @@
+{
+  "name": "rbvapes_app",
+  "version": "1.0.0",
+  "description": "RB Vapes business app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABaron21/RBVapes_App.git"
+  },
+  "author": "Alex Baron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABaron21/RBVapes_App/issues"
+  },
+  "homepage": "https://github.com/ABaron21/RBVapes_App#readme",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
